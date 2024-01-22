@@ -1,2 +1,2 @@
 # client
-Balanced soccer teams generator
+Balanced sports teams generator
